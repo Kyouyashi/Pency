@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "Pency3.0.0",
+  "scripts": {
+    "start": node Pency3.0.0"
+  },
+  "depedndencies": {
+    "discord.py": "11.1.0"'
+    "request": "2.81.0"
+   }
+}
